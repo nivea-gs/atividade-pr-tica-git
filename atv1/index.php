@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exercício GitHub</title>
+    <title>Exercício GitHub Nívea</title>
 </head>
 <body>
      <div class="container">
